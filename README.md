@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arian8Ultra
+- 👋 Hi, I’m Arian Rezaei aka ArianUltra
 - 👀 I’m interested in Front-End, Java and Android programming
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on everything
