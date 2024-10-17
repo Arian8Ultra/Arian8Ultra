@@ -8,11 +8,7 @@
 - 📫 How to reach me **arian8ultra@gmail.com**
 
 - ⚡ Fun fact **Life is hard asf**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arian8ultra&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="arian8ultra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arian8ultra&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="arian8ultra" /></p>
